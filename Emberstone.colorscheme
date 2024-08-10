@@ -1,5 +1,5 @@
 [Background]
-Color=32,36,46
+Color=23,23,36
 [BackgroundFaint]
 Color=16,18,26
 [BackgroundIntense]
@@ -62,7 +62,7 @@ Color=87,52,90
 Color=215,192,228
 
 [Color7]
-Color=248,248,242
+Color=248, 237, 220
 [Color7Faint]
 Color=248,248,242
 [Color7Intense]
@@ -73,5 +73,5 @@ Anchor=10,10
 Blur=true
 ColorRandomization=false
 FillStyle=Tile
-Description=Emberstone-theme-konsole
-Opacity=0.98
+Description=Emberstone theme for Konsole
+Opacity=0.99
