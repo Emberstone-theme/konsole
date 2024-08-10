@@ -1,12 +1,19 @@
 <h1 align="center">
 	<img src="https://avatars.githubusercontent.com/u/177791191?s=200&v=4" width="150" alt="Emberstone"/>
     <br/>
-	Emberstone for Konsole (post 2015)
+	Emberstone for Konsole
 </h1>
+
+## Preview
+<img src="./assets/preview.png" width="100%" alt=""/>
 
 ## 🚧 Alpha Stage Notice
 
 **Emberstone is currently in its ALPHA phase.** This means the themes are still in development, and we are actively iterating on design, color palettes, and compatibility. Contributions and feedback are highly appreciated as we work towards our first stable release.
+
+## Requirement
+
+This plugins have been tested on Konsole post 2015.
 
 ## Installation
 
@@ -16,7 +23,6 @@ Execute this command :
 
 ```bash
 curl -s https://raw.githubusercontent.com/Emberstone-theme/konsole/main/install.sh
-
 ```
 This command will download extract and install the theme on your Konsole folder.
 
